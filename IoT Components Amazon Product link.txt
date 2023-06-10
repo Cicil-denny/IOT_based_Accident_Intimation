@@ -1,0 +1,10 @@
+MPU6050 - https://www.amazon.in/Electronic-Spices-MPU6050-Gyroscope-Accelerometer/dp/B0BHWDMBBB/ref=sr_1_2?crid=20KDF84ZK8HP7&keywords=MPU6050&qid=1680616179&sprefix=mpu6050%2Caps%2C314&sr=8-2
+
+GPS GY 99 - https://www.amazon.in/ThinkletsTM-GY-NEO6MV2-Antenna-Arduino-Raspberry/dp/B0779FQXGZ/ref=sr_1_2?crid=3GT6XPUU8YAL4&keywords=gps+gy+99+arduino&qid=1680616760&sprefix=gps+gy+99+ardunio+%2Caps%2C311&sr=8-2
+
+9v Battery - https://www.amazon.in/Easy-Power-110-260-VAC-Supply/dp/B08CNDPYCC/ref=sr_1_2?crid=5FIC2GX2ERYQ&keywords=9v+power+supply+module&qid=1680616716&sprefix=9v+power+supply+module%2Caps%2C320&sr=8-2
+
+
+WiFi Module - https://www.amazon.in/Lolin-NodeMCU-ESP8266-CP2102-Wireless/dp/B010O1G1ES/ref=sr_1_3_mod_primary_new?keywords=wifi+module+esp8266&qid=1680616795&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=Wifi+Module+E%2Caps%2C325&sr=8-3
+
+Arduino UNO - https://www.amazon.in/IDUINO-SMD-UNO-ATmega328P-Arduino/dp/B09ZVLTSJT/ref=sr_1_1_sspa?crid=H8H31015HRGW&keywords=Arduino+Uno&qid=1680616123&sprefix=%2Caps%2C333&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&smid=A2LO6KZVN9WNE7
